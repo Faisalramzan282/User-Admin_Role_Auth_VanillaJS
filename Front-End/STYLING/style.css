@@ -1,0 +1,15 @@
+.signup-main-con{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.signup-main-con button{
+    width: 100%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.signUp-form label{
+    font-size:large;
+}
